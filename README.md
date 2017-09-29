@@ -40,6 +40,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Antonio Todo Bom** - *Initial work*
+* **Ywre Perez Cabral** - *Initial work*
 
 
 ## License
